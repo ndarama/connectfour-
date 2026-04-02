@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2mzIYVkX92g=",
+  "success": true,
+  "projectFilePath": "D:\\NDARAMA\\1.SCHOOLS\\2. BYU Fall 2026\\CSE325 - .NET Software Development\\W04\\game\\ConnectFour.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IT Space Ltd\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.23\\microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\IT Space Ltd\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.23\\microsoft.windowsdesktop.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\IT Space Ltd\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.23\\microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\IT Space Ltd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.23\\microsoft.netcore.app.host.win-x64.8.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
