@@ -31,3 +31,4 @@ D:\NDARAMA\1.SCHOOLS\2. BYU Fall 2026\CSE325 - .NET Software Development\W04\gam
 D:\NDARAMA\1.SCHOOLS\2. BYU Fall 2026\CSE325 - .NET Software Development\W04\game\obj\Debug\net8.0\ConnectFour.genruntimeconfig.cache
 D:\NDARAMA\1.SCHOOLS\2. BYU Fall 2026\CSE325 - .NET Software Development\W04\game\obj\Debug\net8.0\ref\ConnectFour.dll
 D:\NDARAMA\1.SCHOOLS\2. BYU Fall 2026\CSE325 - .NET Software Development\W04\game\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\NDARAMA\1.SCHOOLS\2. BYU Fall 2026\CSE325 - .NET Software Development\W04\game\obj\Debug\net8.0\ConnectFour.sourcelink.json
