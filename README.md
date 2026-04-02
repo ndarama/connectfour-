@@ -2,6 +2,10 @@
 
 A classic Connect Four game built with Blazor Web App (.NET 8) for CSE325.
 
+## AUTHOR
+
+**NDARAMA Mark**, Student at BYU IDAHO - 2026
+
 ## Features
 
 - **Interactive gameplay**: Two players alternate placing pieces
